@@ -35,5 +35,9 @@ Here are some ideas to get you started:
    </p>
 </div> 
 
-⭐️ From [SAchu47](https://github.com/SAchu47)
+<p align="center">
+  <a href="https://github.com/jj131204">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj131204&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Juan José Top Langs">
+  </a>
+</p>
 
