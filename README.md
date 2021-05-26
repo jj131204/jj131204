@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hey there! I'm Juan José Arteta Maury 👋 </h1>
 <h3 align="center"> ⚡ software developer in progress. ⚡ </h3>
 <div>
-<img width = "35%" align="right" alt="PIC" height="350px" src="https://github.com/jj131204/jj131204/blob/main/yo.PNG" />
+<img width = "40%" align="right" alt="PIC" height="350px" src="https://github.com/jj131204/jj131204/blob/main/yo.PNG" />
 <div align="left"> 
   <h3> 💬 About Me </h3>
 
