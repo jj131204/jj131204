@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <div>
 <img width = "35%" align="right" alt="PIC" height="350px" src="https://github.com/jj131204/jj131204/blob/main/yo.PNG" />
 <div align="left"> 
-  <h3> 👨🏻‍💻 About Me </h3>
+  <h3> 💬 About Me </h3>
 
   - 🎓 &nbsp; Holberton School Student.
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-  - 💼 &nbsp; I’m currently working on 
+
 </div> 
 </div>
 
