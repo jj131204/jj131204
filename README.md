@@ -22,8 +22,7 @@ Here are some ideas to get you started:
   <h3> 💬 About Me </h3>
 
   - 🎓 &nbsp; Holberton School Student.
-  - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
+  - 🌱  &nbsp; Aprendiendo más sobre Arquitecturas Backend y Frontend Developement.
 </div> 
 </div>
 
