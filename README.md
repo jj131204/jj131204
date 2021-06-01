@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <br>
   <p>
   <img src="https://github.com/jj131204/jj131204/blob/main/kyber.PNG" width="70"  textaling="center">
-    <a http://kybernets.org/>
+      <a href="http://kybernets.org/">
   </p>
 </div>
 
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 </div> 
 
 <p align="center">
-  <a href="https://github.com/jj131204">
+c
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj131204&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Juan José Top Langs">
   </a>
 </p>
