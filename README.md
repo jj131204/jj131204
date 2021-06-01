@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <h3> 👯 Ventures</h3>  
   - 🔭 &nbsp; Founding member of Kybernets corporation
   <p>
-  <img src="https://github.com/jj131204/jj131204/blob/main/kyber.PNG" width="50"  textaling="center">
+  <img src="https://github.com/jj131204/jj131204/blob/main/kyber.PNG" width="70"  textaling="center">
   </p>
 </div>
 
