@@ -32,8 +32,8 @@ Here are some ideas to get you started:
   <br>
   <p>
   <img src="https://github.com/jj131204/jj131204/blob/main/kyber.PNG" width="70"  textaling="center">
-      <a href="http://kybernets.org/">
   </p>
+        <a href="http://kybernets.org/">
 </div>
 
 
