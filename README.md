@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 <div>
   <h3> 👯 Ventures</h3>  
   - 🔭 &nbsp; Founding member of Kybernets corporation
-  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
+  <p>
+  <img src="https://github.com/jj131204/jj131204/blob/main/kyber.PNG" width="50">
+  </p>
 </div>
 
 
