@@ -22,7 +22,8 @@ Here are some ideas to get you started:
   <h3> 💬 About Me </h3>
 
   - 🎓 &nbsp; Holberton School Student.
-  - 🌱  &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
+  - 🔭 &nbsp; Founding member of kybernets corporation
   </div>
 </div>
 
