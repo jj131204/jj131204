@@ -23,9 +23,15 @@ Here are some ideas to get you started:
 
   - 🎓 &nbsp; Holberton School Student.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - 🔭 &nbsp; Founding member of Kybernets corporation
   </div>
 </div>
+
+<div>
+  <h3> 👯 Ventures</h3>  
+  - 🔭 &nbsp; Founding member of Kybernets corporation
+  <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50">
+</div>
+
 
 <div>
   <h3> 💻 Languages and Tools </h3>
