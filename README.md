@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   - 🎓 &nbsp; Holberton School Student.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
-  - 🔭 &nbsp; Founding member of kybernets corporation
+  - 🔭 &nbsp; Founding member of Kybernets corporation
   </div>
 </div>
 
