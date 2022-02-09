@@ -42,7 +42,7 @@ I have many goals and aspirations, I am committed, I like to learn new things an
 <div>
   <h3> 💻 Languages and Tools </h3>
   <p>
-   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQbXL9s9DZEDDpJaXA7AhViZ3liXqsFNyIPr62xiOZ6dw_aXX_xGJizQTe3SnjJD72Uo&usqp=CAU" width="50"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.figma.com%2Fcommunity%2Ffile%2F930374612850356203&psig=AOvVaw1_4bGWCrc_VjqZAeBPD_i_&ust=1644518428943000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCJC1pdii8_UCFQAAAAAdAAAAABAJ" width="100">
+   <img src="https://media.giphy.com/media/3rCcV6sC1o2GY/giphy.gif" width="50"><img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="50"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRQbXL9s9DZEDDpJaXA7AhViZ3liXqsFNyIPr62xiOZ6dw_aXX_xGJizQTe3SnjJD72Uo&usqp=CAU" width="50"><img src="https://miro.medium.com/max/1400/1*UBZYjKJigowCJOK4SaHicw.jpeg" width="100">
    </p>
 </div> 
 
