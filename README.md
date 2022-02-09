@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <div align="left"> 
   <h3> 💬 About Me </h3>
   - ⚡ &nbsp; I am a front end web developer, I am an enthusiastic person, I am looking to grow personally and professionally every day.
-I have many goals and aspirations, I am committed, I like to learn new things and I am a self-confident person.
+I have many goals and aspirations, I am committed, I like to learn new things and I am a self-confident person..
 
   - 🎓 &nbsp; Holberton School Student.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
