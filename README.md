@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 <img width = "40%" align="right" alt="PIC" height="350px" src="https://github.com/jj131204/jj131204/blob/main/yo.PNG" />
 <div align="left"> 
   <h3> 💬 About Me </h3>
+  - ⚡ &nbsp; I am a front end web developer, I am an enthusiastic person, I am looking to grow personally and professionally every day.
+I have many goals and aspirations, I am committed, I like to learn new things and I am a self-confident person.
 
   - 🎓 &nbsp; Holberton School Student.
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
