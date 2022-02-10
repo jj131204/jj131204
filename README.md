@@ -32,13 +32,13 @@ I have many goals and aspirations, I am committed, I like to learn new things an
   <h3> 👯 Ventures</h3>  
   - 🔭 &nbsp; Founding member of Kybernets corporation
   <br>
-  <p>
-  <div align="center" display="flex">
-    <img ![alt-text-1](https://github.com/jj131204/jj131204/blob/main/logo-base-12.svg) ![alt-text-2](https://github.com/jj131204/jj131204/blob/main/logo-base2-13.svg "title-2") >
-   <img src="https://github.com/jj131204/jj131204/blob/main/logo-base-12.svg" width="70" height="90px"> <img src="https://github.com/jj131204/jj131204/blob/main/logo-base2-13.svg" width="" height="30px" >
-  </div>
-  </p>
-        <a href="http://kybernets.org/">
+
+<p float="left">
+  <img src="https://github.com/jj131204/jj131204/blob/main/logo-base-12.svg" width="100" />
+  <img src="https://github.com/jj131204/jj131204/blob/main/logo-base2-13.svg" width="100" /> 
+
+</p>
+
 </div>
 
 
