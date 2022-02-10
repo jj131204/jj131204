@@ -60,7 +60,6 @@ I have many goals and aspirations, I am committed, I like to learn new things an
 ✉ jj131204@gmail.com
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
-c
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj131204&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Juan José Top Langs">
   </a>
 </p>
