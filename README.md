@@ -35,7 +35,6 @@ I have many goals and aspirations, I am committed, I like to learn new things an
 
 <p float="left">
   <img src="https://github.com/jj131204/jj131204/blob/main/logo-base-12.svg" width="100" height="90px"/>
-  <img src="https://github.com/jj131204/jj131204/blob/main/logo-base2-13.svg" width="100" height="100px"/> 
 
 </p>
 
