@@ -53,9 +53,9 @@ I have many goals and aspirations, I am committed, I like to learn new things an
   
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### Connect with me:
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
-[<img align="left" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />]
+[<img align="left" alt="juan| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="juan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="juan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ✉ jj131204@gmail.com
 
@@ -65,3 +65,7 @@ c
   </a>
 </p>
 
+
+
+[twitter]: https://twitter.com/jarteta2004
+[linkedin]: https://www.linkedin.com/in/juan-jose-arteta-maury/
