@@ -34,7 +34,7 @@ I have many goals and aspirations, I am committed, I like to learn new things an
   <br>
   <p>
   <div align="center">
-   <img src="https://github.com/jj131204/jj131204/blob/main/kyber.PNG" width="70" >
+   <img src="https://github.com/jj131204/jj131204/blob/main/logo-base-12.svg" width="70" >
   </div>
   </p>
         <a href="http://kybernets.org/">
