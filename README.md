@@ -55,9 +55,10 @@ I have many goals and aspirations, I am committed, I like to learn new things an
   ### Connect with me:
 [<img align="left" alt="juan| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="juan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-✉ jj131204@gmail.com
 
+  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+✉ jj131204@gmail.com
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <p align="center">
 c
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jj131204&hide=CSS,jupyter%20notebook&layout=compact&langs_count=10&text_color=daf7dc&bg_color=151515" alt="Juan José Top Langs">
