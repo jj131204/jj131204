@@ -39,7 +39,8 @@ I have many goals and aspirations, I am committed, I like to learn new things an
 </div>
 
 
-<div>
+ -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
   ### ¡My technologies!
 - CSS.
 - HTML.
@@ -48,7 +49,7 @@ I have many goals and aspirations, I am committed, I like to learn new things an
 - Figma.
 - SQL.
 - PYTHON.
-</div> 
+
   
  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   ### Connect with me:
