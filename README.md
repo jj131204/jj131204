@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 I have many goals and aspirations, I am committed, I like to learn new things and I am a self-confident person..
 
   - 🎓 &nbsp; Holberton School Student.
+  - 🎓 &nbsp; technologist in human talent management
   - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement.
   </div>
 </div>
