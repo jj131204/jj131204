@@ -48,6 +48,7 @@ I have many goals and aspirations, I am committed, I like to learn new things an
 - CSS.
 - HTML.
 - JS.
+- Flutter.
 - Adobe XD.
 - Figma.
 - SQL.
