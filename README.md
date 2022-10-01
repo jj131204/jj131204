@@ -47,6 +47,7 @@ I have many goals and aspirations, I am committed, I like to learn new things an
   ### ¡My technologies!
 - CSS.
 - HTML.
+- Bootstrap.
 - JS.
 - Flutter.
 - Adobe XD.
