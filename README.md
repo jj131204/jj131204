@@ -50,6 +50,7 @@ I have many goals and aspirations, I am committed, I like to learn new things an
 - Bootstrap.
 - JS.
 - Flutter.
+- Dart.
 - Angular.
 - Adobe XD.
 - Figma.
